@@ -1,2 +1,2 @@
-# go-utils
+# goutils
 Utility package for Golang
